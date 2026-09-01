@@ -9,5 +9,3 @@ A collection of SQL data cleaning projects using MySQL. This repository showcase
 
 
 
-
-
